@@ -1,10 +1,48 @@
+<!-- Tipagem
+Protocolo cliente servidor
+
+como funciona este protocolo?
+um cliente faz uma solicitacao ao servidor
+o servidor vai processar essa solicitacao entender como ela funciona
+e vai retornar ao cliente
+
+servidor esta passivo esperando solicitacoes
+enquanto o cliente manda solicitacoes
+
+HTTP= Protocolo Cliente Servidor
+-->
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aula1</title>
+
+    <style>
+        h1{
+            color: red;
+        }
+    </style>
 </head>
 <body>
+    <h1>Nao e meu primeiro site</h1>
+    <p>Fazendo no Curso da DIO</p>
+    <button id="teste" type="button">
+         teste
+    </button>
+
+    <script>
+        //window //Window e oq representa nosso broser
+        //document // documento corrente
+
+        //Resquest de um click em um botao
+       const bntTeste =  document.getElementById("teste")
+       
+       bntTeste.addEventListener("click", function(){
+        console.log('Cliclou no botao!')
+       })
+    </script>
 </body>
+
 </html>
