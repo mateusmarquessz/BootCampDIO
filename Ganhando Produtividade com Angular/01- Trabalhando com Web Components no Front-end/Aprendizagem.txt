@@ -1,0 +1,13 @@
+Introducao
+Explicou oq ocorrera nesse primeiro momento
+
+
+Fundamentos
+A diferenca entre entre Elementes e Web Components
+
+Elementos sao as tags HTML que usamos diaramente
+
+Seria muito mais pratico se pudéssemos gerar um so uma tag inves de gerar varios elementos
+
+
+O Papel do HTML
