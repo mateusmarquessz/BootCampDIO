@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/03-Apredendo a Sintaxe Java/03-Apredendo a Sintaxe Java.iml" filepath="$PROJECT_DIR$/03-Apredendo a Sintaxe Java/03-Apredendo a Sintaxe Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Introducao e Estruturas Condicionais com Java/04-Introducao e Estruturas Condicionais com Java.iml" filepath="$PROJECT_DIR$/04-Introducao e Estruturas Condicionais com Java/04-Introducao e Estruturas Condicionais com Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Estruturas de Repeticao em Java/05-Estruturas de Repeticao em Java.iml" filepath="$PROJECT_DIR$/05-Estruturas de Repeticao em Java/05-Estruturas de Repeticao em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Java e Tratamento de Excecoes/06-Java e Tratamento de Excecoes.iml" filepath="$PROJECT_DIR$/06-Java e Tratamento de Excecoes/06-Java e Tratamento de Excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dominando a Linguagem de Programacao Java.iml" filepath="$PROJECT_DIR$/.idea/Dominando a Linguagem de Programacao Java.iml" />
+    </modules>
+  </component>
+</project>
